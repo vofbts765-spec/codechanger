@@ -1,0 +1,6 @@
+{
+  "name": "CodeX - Universal Multi-Language Transpiler & Live Runner",
+  "description": "Universal bi-directional code transpiler and live code runner with Gemini AI integration, real-time web preview, and interactive terminal simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
